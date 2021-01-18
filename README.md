@@ -1,5 +1,5 @@
  <h1>Rianna Dudas</h1>
-<p>This is where the description will go</p>
+<p>This repository is used for homework in GRD423</p>
 
 
 <h2>Assignments</h2>
